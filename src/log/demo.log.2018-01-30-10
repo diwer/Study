@@ -1,0 +1,10 @@
+2018-01-30 10:19:10,554 [main] INFO  [DemoApplication.java:32] run
+2018-01-30 10:19:10,558 [main] ERROR [DemoApplication.java:33] end
+2018-01-30 10:19:11,558 [main] INFO  [DemoApplication.java:32] run
+2018-01-30 10:19:11,559 [main] ERROR [DemoApplication.java:33] end
+2018-01-30 10:19:12,563 [main] INFO  [DemoApplication.java:32] run
+2018-01-30 10:19:12,563 [main] ERROR [DemoApplication.java:33] end
+2018-01-30 10:19:13,567 [main] INFO  [DemoApplication.java:32] run
+2018-01-30 10:19:13,567 [main] ERROR [DemoApplication.java:33] end
+2018-01-30 10:19:14,571 [main] INFO  [DemoApplication.java:32] run
+2018-01-30 10:19:14,572 [main] ERROR [DemoApplication.java:33] end
