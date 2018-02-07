@@ -12,6 +12,7 @@ public class ReverseList {
      * @param head: n
      * @return: The new head of reversed linked list.
      */
+
     public static ListNode reverse(ListNode head) {
         if (head == null || head.next == null) {
             return head;

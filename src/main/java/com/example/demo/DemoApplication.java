@@ -1,5 +1,6 @@
 package com.example.demo;
 
+import com.alibaba.fastjson.JSON;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
@@ -26,14 +27,7 @@ public class DemoApplication {
 
     public static void main(String[] args) throws Throwable {
 
-        int count = 10000;
-        for (int i = 0; i < count; i++) {
-            LOGGER.debug("start");
-            LOGGER.info("run");
-            LOGGER.error("end");
-            Thread.sleep(1000);
-        }
-
+        JSON json=JSON.toJSON();
 
 //        String str = new String("ewesdfsdfhalskdfjhaskljfhasdklfhaksjdfhaksjdhfaksldjfhaklsdjfhaskdjfhaskldjfhaskdjfhask");
 //
